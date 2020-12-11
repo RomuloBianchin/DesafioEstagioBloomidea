@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "435975051074",
+    "project_id": "desafio-estagio-bloomidea",
+    "storage_bucket": "desafio-estagio-bloomidea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435975051074:android:79c34d7705a393af019adb",
+        "android_client_info": {
+          "package_name": "com.example.desafioestagiobloomidea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435975051074-rlfjdet8636o4fbg8m47rgul8413ture.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATfkxOrhwTf3dXud4xJ-iJpZClt-TCFng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435975051074-rlfjdet8636o4fbg8m47rgul8413ture.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

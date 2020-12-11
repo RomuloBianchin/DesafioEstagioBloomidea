@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Desafio Estagio Bloomidea</string>
+
+    <!-- Tela de Login e de cadastro-->
+    <string name="digite_seu_usuario">Digite seu usuário</string>
+    <string name="digite_a_palavra_passe">Digite a palavra passe</string>
+    <string name="entrar">Entrar</string>
+    <string name="nova_conta">Não tens uma conta ? Clique agui !</string>
+    <string name="entrar_na_conta">Entrar na conta</string>
+    <string name="registrar_conta">Registrar Nova Conta</string>
+    <string name="registrar">Registrar</string>
+    <string name="j_tens_uma_conta_clique_aqui">Já tens uma conta ? Clique Aqui!</string>
+    <string name="erro_campos_nao_preenchidos">Campo e-mail ou Palavra passe incorreto!</string>
+    <string name="formato_de_email_errado">Verificar campo e-mail, formato incorreto ou não preenchido</string>
+    <string name="palavra_passe_tamanho">Palavra passe não preenchida ou tem menos que 6 caracteres</string>
+    <string name="digite_o_seu_email_favorito">Digite o seu email favorito</string>
+    <string name="criar_palavra_passe">Criar palavra passe</string>
+    <string name="carregar_foto_galeria">Carregar fotografia da galeria</string>
+    <string name="tirar_foto_camera">Tirar foto com a câmera</string>
+    <string name="nome_do_utilizador">Nome do utilizador</string>
+    <string name="permissao_negada">Permissão a câmera foi negada! A mesma poderá ser permitida nas configurações.</string>
+
+</resources>
